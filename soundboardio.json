@@ -5,10 +5,10 @@
     "color": "#66CC00",
     "rootUrl": "sounds/",
     "author": {
-      "name": "soundboardio",
-      "url": "https://sounboardio.com"
+      "name": "AquaSoup",
+      "url": "https://aquasoup.com"
     },
-    "lang": "cz",
+    "lang": "cs",
     "version": "1.0.0",
     "icons": [
       {
