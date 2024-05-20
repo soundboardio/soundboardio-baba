@@ -1,180 +1,176 @@
 {
-    "name": "Bába pod kořenem",
-    "shortName": "Bába pod kořenem",
-    "description": "Uváznutí rekreantky v kořenovém systému smrku.",
-    "color": "#66CC00",
-    "rootUrl": "sounds/",
-    "author": {
-      "name": "AquaSoup",
-      "url": "https://aquasoup.com"
+  "name": "Bába pod kořenem",
+  "shortName": "Bába pod kořenem",
+  "description": "Uvíznutí rekreantky v kořenovém systému",
+  "color": "#66CC00",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "AquaSoup",
+    "url": "https://aquasoup.com"
+  },
+  "lang": "cs",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "48x48",
+      "type": "image/png"
     },
-    "lang": "cs",
-    "version": "1.0.0",
-    "icons": [
-      {
-        "src": "/icons/icon-48.png",
-        "sizes": "48x48",
-        "purpose": "48x48",
-        "type": "image/png"
-      },
-      {
-        "src": "/icons/icon.png",
-        "sizes": "144x144",
-        "type": "image/png"
-      }
-    ],
-    "tiles": [
-      {
-        "name": "11 hodin",
-        "filename": "11_hodin.mp3"
-      },
-      {
-        "name": "Bouchání do kořene",
-        "filename": "bouchani_do_korene.mp3"
-      },
-      {
-        "name": "Byli mokrý",
-        "filename": "byli_mokry.mp3"
-      },
-      {
-        "name": "Byli v záchopech",
-        "filename": "byli_v_zachopech.mp3"
-      },
-      {
-        "name": "Celé tělo",
-        "filename": "cele_telo.mp3"
-      },
-      {
-        "name": "Daleko",
-        "filename": "daleko.mp3"
-      },
-      {
-        "name": "Do smíchu nebylo",
-        "filename": "do_smichu_nebylo.mp3"
-      },
-      {
-        "name": "Dostat se ven",
-        "filename": "dostat_se_ven.mp3"
-      },
-      {
-        "name": "Hlásku nejde",
-        "filename": "hlasku_nejde.mp3"
-      },
-      {
-        "name": "Holý život",
-        "filename": "holy_zivot.mp3"
-      },
-      {
-        "name": "Kamarádi objevili",
-        "filename": "kamaradi_objevili.mp3"
-      },
-      {
-        "name": "Konec",
-        "filename": "konec.mp3"
-      },
-      {
-        "name": "Konečně záchrana",
-        "filename": "konecne_zachrana.mp3"
-      },
-      {
-        "name": "Marně",
-        "filename": "marne.mp3"
-      },
-      {
-        "name": "Moč",
-        "filename": "moc.mp3"
-      },
-      {
-        "name": "Nedokázala ozvat",
-        "filename": "nedokazala_ozvat.mp3"
-      },
-      {
-        "name": "Nepůjde",
-        "filename": "nepujde.mp3"
-      },
-      {
-        "name": "Nevěděli",
-        "filename": "nevedeli.mp3"
-      },
-      {
-        "name": "Nezapomene",
-        "filename": "nezapomene.mp3"
-      },
-      {
-        "name": "Nic nestalo",
-        "filename": "nic_nestalo.mp3"
-      },
-      {
-        "name": "Porucha",
-        "filename": "porucha.mp3"
-      },
-      {
-        "name": "Přestane mluvit",
-        "filename": "prestanu_mluvit.mp3"
-      },
-      {
-        "name": "Přestává legrace",
-        "filename": "prestava_legrace.mp3"
-      },
-      {
-        "name": "Příběh",
-        "filename": "pribeh.mp3"
-      },
-      {
-        "name": "Sjela noha",
-        "filename": "sjela_noha.mp3"
-      },
-      {
-        "name": "Taky vydržet",
-        "filename": "taky_vydrzet.mp3"
-      },
-      {
-        "name": "Uvízla",
-        "filename": "uvizla.mp3"
-      },
-      {
-        "name": "Vězněm",
-        "filename": "veznem.mp3"
-      },
-      {
-        "name": "Vojáci promítali",
-        "filename": "vojaci_promitali.mp3"
-      },
-      {
-        "name": "V pořádku",
-        "filename": "v_poradku.mp3"
-      },
-      {
-        "name": "Vyčerpaná promrzla",
-        "filename": "vycerpana_promrzla.mp3"
-      },
-      {
-        "name": "Vytáhnout nejde",
-        "filename": "vytahnout_nejde.mp3"
-      },
-      {
-        "name": "Zapříčila",
-        "filename": "zapricila.mp3"
-      },
-      {
-        "name": "Zdeno 1",
-        "filename": "zdeno_1.mp3"
-      },
-      {
-        "name": "Zdeno 2",
-        "filename": "zdeno_2.mp3"
-      },
-      {
-        "name": "Žena",
-        "filename": "zena.mp3"
-      },
-      {
-        "name": "Ztratila",
-        "filename": "ztratila.mp3"
-      },
-      {
-        "name": "Na dovolenou",
-        "filename": "na_dovolenou.mp3"
-      }
-    ]
-  }
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Příběh v divočině",
+      "filename": "pribeh.mp3"
+    },
+    {
+      "name": "Žena",
+      "filename": "zena.mp3"
+    },
+    {
+      "name": "Uvízla v kořenech stromů",
+      "filename": "uvizla.mp3"
+    },
+    {
+      "name": "Ztratila řeč",
+      "filename": "ztratila.mp3"
+    },
+    {
+      "name": "Naštěstí dobrý konec",
+      "filename": "konec.mp3"
+    },
+    {
+      "name": "Je v pořádku",
+      "filename": "v_poradku.mp3"
+    },
+    {
+      "name": "Tady mě sjela noha",
+      "filename": "sjela_noha.mp3"
+    },
+    {
+      "name": "Zapříčila tam do toho",
+      "filename": "zapricila.mp3"
+    },
+    {
+      "name": "Boj o holý život",
+      "filename": "holy_zivot.mp3"
+    },
+    {
+      "name": "Celé tělo má zaklíněné",
+      "filename": "cele_telo.mp3"
+    },
+    {
+      "name": "Dostat se ven",
+      "filename": "dostat_se_ven.mp3"
+    },
+    {
+      "name": "Vytáhnout nejde",
+      "filename": "vytahnout_nejde.mp3"
+    },
+    {
+      "name": "Přesto strašně daleko",
+      "filename": "daleko.mp3"
+    },
+    {
+      "name": "Ani hlásku",
+      "filename": "hlasku_nejde.mp3"
+    },
+    {
+      "name": "Porucha po autonehodě",
+      "filename": "porucha.mp3"
+    },
+    {
+      "name": "Přestanu mluvit",
+      "filename": "prestanu_mluvit.mp3"
+    },
+    {
+      "name": "Kořenovým vězněm",
+      "filename": "veznem.mp3"
+    },
+    {
+      "name": "Marně jí hledají",
+      "filename": "marne.mp3"
+    },
+    {
+      "name": "Zdeno! 1",
+      "filename": "zdeno_1.mp3"
+    },
+    {
+      "name": "Zdeno! 2",
+      "filename": "zdeno_2.mp3"
+    },
+    {
+      "name": "Nedokázala se ozvat",
+      "filename": "nedokazala_ozvat.mp3"
+    },
+    {
+      "name": "Bouchání do kořenů",
+      "filename": "bouchani_do_korene.mp3"
+    },
+    {
+      "name": "Nevěděl jsme co se děje",
+      "filename": "nevedeli.mp3"
+    },
+    {
+      "name": "Promítali se mi vojáci",
+      "filename": "vojaci_promitali.mp3"
+    },
+    {
+      "name": "Byli v záchopech",
+      "filename": "byli_v_zachopech.mp3"
+    },
+    {
+      "name": "Byli mokrý",
+      "filename": "byli_mokry.mp3"
+    },
+    {
+      "name": "Musíš vydržet taky",
+      "filename": "taky_vydrzet.mp3"
+    },
+    {
+      "name": "Přestává legrace",
+      "filename": "prestava_legrace.mp3"
+    },
+    {
+      "name": "Vyčerpaná a promrzlá",
+      "filename": "vycerpana_promrzla.mp3"
+    },
+    {
+      "name": "Zahřívala mě teplá moč",
+      "filename": "moc.mp3"
+    },
+    {
+      "name": "Konečně záchrana",
+      "filename": "konecne_zachrana.mp3"
+    },
+    {
+      "name": "Kamarádi ji objevili",
+      "filename": "kamaradi_objevili.mp3"
+    },
+    {
+      "name": "Zaklíněna 11 hodin",
+      "filename": "11_hodin.mp3"
+    },
+    {
+      "name": "Nebylo tady do smíchu",
+      "filename": "do_smichu_nebylo.mp3"
+    },
+    {
+      "name": "Několik šrámů",
+      "filename": "nic_nestalo.mp3"
+    },
+    {
+      "name": "Na dovolenou nezapomene",
+      "filename": "nezapomene.mp3"
+    },
+    {
+      "name": "Na procházku sama nepůjde",
+      "filename": "nepujde.mp3"
+    }
+  ]
+}
