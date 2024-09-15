@@ -10,7 +10,7 @@
     "url": "https://aquasoup.com"
   },
   "lang": "cs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icons": [
     {
       "src": "/icons/og-image.jpg",
@@ -177,6 +177,16 @@
     {
       "name": "Na procházku sama nepůjde",
       "filename": "nepujde.mp3"
+    }
+  ],
+  "references": [
+    {
+      "name": "Originální video (2014) [YouTube]",
+      "url": "https://www.youtube.com/watch?v=_S1Iwtcpvpk"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/B%C3%A1ba_pod_ko%C5%99enem"
     }
   ]
 }
