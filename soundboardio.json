@@ -2,7 +2,7 @@
   "name": "Bába pod kořenem",
   "shortName": "Bába pod kořenem",
   "description": "Uvíznutí rekreantky v kořenovém systému",
-  "story": "Teď tu máme příběh, který jakoby se stal ve vzdálené divočině, ale je to skutečně z České republiky. Celou noc musela strávit v lese na Jihlavsku sedmapadesátiletá žena. Uvízla totiž v kořenech stromů, odkud se nemohla dostat. Navíc ze šoku ztratila řeč a tak si nedokázala ani přivolat pomoc. Tento neuvěřitelný příběh má naštěstí dobrý konec. Paní již není kořeným vězněm.",
+  "story": "Teď tu máme příběh, který jakoby se stal ve vzdálené divočině, ale je skutečně z České republiky. Celou noc musela strávit v lese na Jihlavsku sedmapadesátiletá žena. Uvízla totiž v kořenech stromů, odkud se nemohla dostat. Navíc ze šoku ztratila řeč a tak si nedokázala ani přivolat pomoc. Tento neuvěřitelný příběh má naštěstí dobrý konec. Paní již není kořeným vězněm.",
   "color": "#1B5E20",
   "rootUrl": "sounds/",
   "author": {
@@ -10,7 +10,7 @@
     "url": "https://aquasoup.com"
   },
   "lang": "cs",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "icons": [
     {
       "src": "/icons/og-image.jpg",
@@ -188,5 +188,27 @@
       "name": "Wikipedia",
       "url": "https://cs.wikipedia.org/wiki/B%C3%A1ba_pod_ko%C5%99enem"
     }
+  ],
+  "lyrics": [
+    "– Teď tu máme příběh, který, jakoby se stal ve vzdálené divočině, ale je skutečně z České republiky.",
+    "– Celou noc musela strávit v lese na Jihlavsku 57 letá žena. Uvízla totiž v kořenech stromů odkud se nemohla dostat. Navíc ze šoku ztratila řeč a tak si nedokázala ani přivolat pomoc.",
+    "– Tento neuvěřitelný příběh má naštěstí dobrý konec. Ráno se ženu podařilo nalézt a je v pořádku",
+    "– Tak tady mně… tady mně sjela noha. Tu jsem zapříčila tam do toho.",
+    "– Zdena Novotná v Řídelově na Jihlavsku je s kamarády na dovolené. Večer se jde jen tak projít. Po pár metrech se ale vycházka mění v boj o holý život. Celé tělo má zaklíněné v kořenech stromu. Dostat se ven, je nad její síly",
+    "– Ta noha, prostě, dokavaď se nedostanete, vytáhnout nejde",
+    "– Je 50 metrů od chatky, 50 metrů od přátel, a přesto strašně daleko. Kvůli leknutí nemůže vydat ani hlásku",
+    "– Posttraumatická porucha v plným rozsahu po autonehodě. Takže, když se leknu, tak prostě najednou přestanu mluvit",
+    "– Ubíhají minuty, pak celé hodiny. Paní Zdena je stále kořenovým vězněm. Marně jí hledají kamarádi",
+    "– Zdenóó! Zdenóó!",
+    "– Ve tmě chodili pár metrů od ní. Nevěděli ji a ona se jim ozvat nedokázala. Bouchání do kořenu nebylo slyšet",
+    "– Strach jsme měli, protože jsme nevěděli, co se děje",
+    "– Promítali se mi hlavou vojáci z první světový války. Byli v zákopech, byli mokrý, museli vydržet. Takže musíš vydržet taky.",
+    "– K ránu přestává veškerá legrace. Paní Zdena je úplně vyčerpaná a promrzlá",
+    "– Odskočit jste si nemoh, takže zahřejvala mě teplá moč",
+    "– Se svítáním konečně přišla záchrana. Kamarádi ji objevili.",
+    "– Paní Zdena zůstala v kořenech zaklíněná celých 11 hodin",
+    "– Nebylo tady do smíchu",
+    "– Kromě několika šrámů se jí naštěstí nic nestalo. Na tuhle dovolenou ale jen tak nezapomene a do lesa na procházku už prý nikdy sama nepůjde.",
+    "David Pik, Televize Nova"
   ]
 }
