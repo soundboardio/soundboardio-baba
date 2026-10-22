@@ -2,7 +2,7 @@
   "name": "Bába pod kořenem",
   "shortName": "Bába pod kořenem",
   "description": "Uvíznutí rekreantky v kořenovém systému",
-  "story": "Teď tu máme příběh, který jakoby se stal ve vzdálené divočině, ale je skutečně z České republiky. Celou noc musela strávit v lese na Jihlavsku sedmapadesátiletá žena. Uvízla totiž v kořenech stromů, odkud se nemohla dostat. Navíc ze šoku ztratila řeč a tak si nedokázala ani přivolat pomoc. Tento neuvěřitelný příběh má naštěstí dobrý konec. Paní již není kořeným vězněm.",
+  "story": "Teď tu máme příběh, který jako by se stal ve vzdálené divočině, ale je skutečně z České republiky. Celou noc musela strávit v lese na Jihlavsku sedmapadesátiletá žena. Uvízla totiž v kořenech stromů, odkud se nemohla dostat. Navíc ze šoku ztratila řeč, a tak si nedokázala ani přivolat pomoc. Tento neuvěřitelný příběh má naštěstí dobrý konec. Paní již není kořenovým vězněm.",
   "color": "#1B5E20",
   "rootUrl": "sounds/",
   "author": {
@@ -99,7 +99,7 @@
       "filename": "veznem.mp3"
     },
     {
-      "name": "Marně jí hledají",
+      "name": "Marně ji hledají",
       "filename": "marne.mp3"
     },
     {
@@ -119,7 +119,7 @@
       "filename": "bouchani_do_korene.mp3"
     },
     {
-      "name": "Nevěděl jsme co se děje",
+      "name": "Nevěděli jsme, co se děje",
       "filename": "nevedeli.mp3"
     },
     {
@@ -127,7 +127,7 @@
       "filename": "vojaci_promitali.mp3"
     },
     {
-      "name": "Byli v záchopech",
+      "name": "Byli v zákopech",
       "filename": "byli_v_zachopech.mp3"
     },
     {
@@ -181,7 +181,7 @@
   ],
   "references": [
     {
-      "name": "Originální video (2014) [YouTube]",
+      "name": "Originální reportáž TV Nova (2012, na YouTube od 2014)",
       "url": "https://www.youtube.com/watch?v=_S1Iwtcpvpk"
     },
     {
@@ -190,17 +190,17 @@
     }
   ],
   "lyrics": [
-    "– Teď tu máme příběh, který, jakoby se stal ve vzdálené divočině, ale je skutečně z České republiky.",
-    "– Celou noc musela strávit v lese na Jihlavsku 57 letá žena. Uvízla totiž v kořenech stromů odkud se nemohla dostat. Navíc ze šoku ztratila řeč a tak si nedokázala ani přivolat pomoc.",
-    "– Tento neuvěřitelný příběh má naštěstí dobrý konec. Ráno se ženu podařilo nalézt a je v pořádku",
+    "– Teď tu máme příběh, který jako by se stal ve vzdálené divočině, ale je skutečně z České republiky.",
+    "– Celou noc musela strávit v lese na Jihlavsku 57letá žena. Uvízla totiž v kořenech stromů, odkud se nemohla dostat. Navíc ze šoku ztratila řeč, a tak si nedokázala ani přivolat pomoc.",
+    "– Tento neuvěřitelný příběh má naštěstí dobrý konec. Ráno se ženu podařilo nalézt a je v pořádku.",
     "– Tak tady mně… tady mně sjela noha. Tu jsem zapříčila tam do toho.",
-    "– Zdena Novotná v Řídelově na Jihlavsku je s kamarády na dovolené. Večer se jde jen tak projít. Po pár metrech se ale vycházka mění v boj o holý život. Celé tělo má zaklíněné v kořenech stromu. Dostat se ven, je nad její síly",
+    "– Zdena Novotná v Řídelově na Jihlavsku je s kamarády na dovolené. Večer se jde jen tak projít. Po pár metrech se ale vycházka mění v boj o holý život. Celé tělo má zaklíněné v kořenech stromu. Dostat se ven je nad její síly",
     "– Ta noha, prostě, dokavaď se nedostanete, vytáhnout nejde",
     "– Je 50 metrů od chatky, 50 metrů od přátel, a přesto strašně daleko. Kvůli leknutí nemůže vydat ani hlásku",
     "– Posttraumatická porucha v plným rozsahu po autonehodě. Takže, když se leknu, tak prostě najednou přestanu mluvit",
-    "– Ubíhají minuty, pak celé hodiny. Paní Zdena je stále kořenovým vězněm. Marně jí hledají kamarádi",
+    "– Ubíhají minuty, pak celé hodiny. Paní Zdena je stále kořenovým vězněm. Marně ji hledají kamarádi",
     "– Zdenóó! Zdenóó!",
-    "– Ve tmě chodili pár metrů od ní. Nevěděli ji a ona se jim ozvat nedokázala. Bouchání do kořenu nebylo slyšet",
+    "– Ve tmě chodili pár metrů od ní. Neviděli ji a ona se jim ozvat nedokázala. Bouchání do kořenu nebylo slyšet",
     "– Strach jsme měli, protože jsme nevěděli, co se děje",
     "– Promítali se mi hlavou vojáci z první světový války. Byli v zákopech, byli mokrý, museli vydržet. Takže musíš vydržet taky.",
     "– K ránu přestává veškerá legrace. Paní Zdena je úplně vyčerpaná a promrzlá",
