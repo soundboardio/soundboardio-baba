@@ -44,151 +44,188 @@
   "tiles": [
     {
       "name": "Příběh v divočině",
-      "filename": "pribeh.mp3"
+      "filename": "pribeh.mp3",
+      "transcript": "Teď tu máme příběh, který jako by se stal ve vzdálené divočině, ale je skutečně z České republiky"
     },
     {
       "name": "Celou noc",
-      "filename": "zena.mp3"
+      "filename": "zena.mp3",
+      "transcript": "Celou noc musela strávit v lese na Jihlavsku 57letá žena"
     },
     {
       "name": "Uvízla v kořenech stromů",
-      "filename": "uvizla.mp3"
+      "filename": "uvizla.mp3",
+      "transcript": "Uvízla totiž v kořenech stromů, odkud se nemohla dostat"
     },
     {
       "name": "Ztratila řeč",
-      "filename": "ztratila.mp3"
+      "filename": "ztratila.mp3",
+      "transcript": "Navíc ze šoku ztratila řeč, a tak si nedokázala ani přivolat pomoc"
     },
     {
       "name": "Naštěstí dobrý konec",
-      "filename": "konec.mp3"
+      "filename": "konec.mp3",
+      "transcript": "Tento neuvěřitelný příběh má naštěstí dobrý konec"
     },
     {
       "name": "Je v pořádku",
-      "filename": "v_poradku.mp3"
+      "filename": "v_poradku.mp3",
+      "transcript": "Ráno se ženu podařilo nalézt a je v pořádku"
     },
     {
       "name": "Tady mně sjela noha",
-      "filename": "sjela_noha.mp3"
+      "filename": "sjela_noha.mp3",
+      "transcript": "Tak tady mně… tady mně sjela noha"
     },
     {
       "name": "Zapříčila tam do toho",
-      "filename": "zapricila.mp3"
+      "filename": "zapricila.mp3",
+      "transcript": "Tu jsem zapříčila tam do toho"
     },
     {
       "name": "Boj o holý život",
-      "filename": "holy_zivot.mp3"
+      "filename": "holy_zivot.mp3",
+      "transcript": "Večer se jde jen tak projít. Po pár metrech se ale vycházka mění v boj o holý život"
     },
     {
       "name": "Celé tělo má zaklíněné",
-      "filename": "cele_telo.mp3"
+      "filename": "cele_telo.mp3",
+      "transcript": "Celé tělo má zaklíněné v kořenech stromu"
     },
     {
       "name": "Dostat se ven",
-      "filename": "dostat_se_ven.mp3"
+      "filename": "dostat_se_ven.mp3",
+      "transcript": "Dostat se ven je nad její síly"
     },
     {
       "name": "Vytáhnout nejde",
-      "filename": "vytahnout_nejde.mp3"
+      "filename": "vytahnout_nejde.mp3",
+      "transcript": "Ta noha, prostě, dokavaď se nedostanete, vytáhnout nejde"
     },
     {
       "name": "Přesto strašně daleko",
-      "filename": "daleko.mp3"
+      "filename": "daleko.mp3",
+      "transcript": "Je 50 metrů od chatky, 50 metrů od přátel, a přesto strašně daleko"
     },
     {
       "name": "Ani hlásku",
-      "filename": "hlasku_nejde.mp3"
+      "filename": "hlasku_nejde.mp3",
+      "transcript": "Kvůli leknutí nemůže vydat ani hlásku"
     },
     {
       "name": "Porucha po autonehodě",
-      "filename": "porucha.mp3"
+      "filename": "porucha.mp3",
+      "transcript": "Posttraumatická porucha v plným rozsahu po autonehodě"
     },
     {
       "name": "Přestanu mluvit",
-      "filename": "prestanu_mluvit.mp3"
+      "filename": "prestanu_mluvit.mp3",
+      "transcript": "Takže, když se leknu, tak prostě najednou přestanu mluvit"
     },
     {
       "name": "Kořenovým vězněm",
-      "filename": "veznem.mp3"
+      "filename": "veznem.mp3",
+      "transcript": "Paní Zdena je stále kořenovým vězněm"
     },
     {
       "name": "Marně ji hledají",
-      "filename": "marne.mp3"
+      "filename": "marne.mp3",
+      "transcript": "Marně ji hledají kamarádi"
     },
     {
       "name": "Zdenóó! 1",
-      "filename": "zdeno_1.mp3"
+      "filename": "zdeno_1.mp3",
+      "transcript": "Zdenóó!"
     },
     {
       "name": "Zdenóó! 2",
-      "filename": "zdeno_2.mp3"
+      "filename": "zdeno_2.mp3",
+      "transcript": "Zdenóóó!"
     },
     {
       "name": "Nedokázala se ozvat",
-      "filename": "nedokazala_ozvat.mp3"
+      "filename": "nedokazala_ozvat.mp3",
+      "transcript": "Ve tmě chodili pár metrů od ní. Neviděli ji a ona se jim ozvat nedokázala"
     },
     {
       "name": "Bouchání do kořenů",
-      "filename": "bouchani_do_korene.mp3"
+      "filename": "bouchani_do_korene.mp3",
+      "transcript": "Bouchání do kořenu nebylo slyšet"
     },
     {
       "name": "Nevěděli jsme, co se děje",
-      "filename": "nevedeli.mp3"
+      "filename": "nevedeli.mp3",
+      "transcript": "Strach jsme měli, protože jsme nevěděli, co se děje"
     },
     {
       "name": "Promítali se mi vojáci",
-      "filename": "vojaci_promitali.mp3"
+      "filename": "vojaci_promitali.mp3",
+      "transcript": "Promítali se mi hlavou vojáci z první světový války"
     },
     {
       "name": "Byli v zákopech",
-      "filename": "byli_v_zachopech.mp3"
+      "filename": "byli_v_zachopech.mp3",
+      "transcript": "Byli v zákopech"
     },
     {
       "name": "Byli mokrý",
-      "filename": "byli_mokry.mp3"
+      "filename": "byli_mokry.mp3",
+      "transcript": "byli mokrý"
     },
     {
       "name": "Musíš vydržet taky",
-      "filename": "taky_vydrzet.mp3"
+      "filename": "taky_vydrzet.mp3",
+      "transcript": "museli vydržet. Takže musíš vydržet taky"
     },
     {
       "name": "Přestává legrace",
-      "filename": "prestava_legrace.mp3"
+      "filename": "prestava_legrace.mp3",
+      "transcript": "K ránu přestává veškerá legrace"
     },
     {
       "name": "Vyčerpaná a promrzlá",
-      "filename": "vycerpana_promrzla.mp3"
+      "filename": "vycerpana_promrzla.mp3",
+      "transcript": "Paní Zdena je úplně vyčerpaná a promrzlá"
     },
     {
       "name": "Zahřívala mě teplá moč",
-      "filename": "moc.mp3"
+      "filename": "moc.mp3",
+      "transcript": "Odskočit jste si nemoh, takže zahřejvala mě teplá moč"
     },
     {
       "name": "Konečně záchrana",
-      "filename": "konecne_zachrana.mp3"
+      "filename": "konecne_zachrana.mp3",
+      "transcript": "Se svítáním konečně přišla záchrana"
     },
     {
       "name": "Kamarádi ji objevili",
-      "filename": "kamaradi_objevili.mp3"
+      "filename": "kamaradi_objevili.mp3",
+      "transcript": "Kamarádi ji objevili"
     },
     {
       "name": "Zaklíněna 11 hodin",
-      "filename": "11_hodin.mp3"
+      "filename": "11_hodin.mp3",
+      "transcript": "Paní Zdena zůstala v kořenech zaklíněná celých 11 hodin"
     },
     {
       "name": "Nebylo tady do smíchu",
-      "filename": "do_smichu_nebylo.mp3"
+      "filename": "do_smichu_nebylo.mp3",
+      "transcript": "Nebylo tady do smíchu"
     },
     {
       "name": "Několik šrámů",
-      "filename": "nic_nestalo.mp3"
+      "filename": "nic_nestalo.mp3",
+      "transcript": "Kromě několika šrámů se jí naštěstí nic nestalo"
     },
     {
       "name": "Na dovolenou nezapomene",
-      "filename": "nezapomene.mp3"
+      "filename": "nezapomene.mp3",
+      "transcript": "Na tuhle dovolenou ale jen tak nezapomene"
     },
     {
       "name": "Na procházku sama nepůjde",
-      "filename": "nepujde.mp3"
+      "filename": "nepujde.mp3",
+      "transcript": "do lesa na procházku už prý nikdy sama nepůjde"
     }
   ],
   "references": [
@@ -211,7 +248,7 @@
     "– Je 50 metrů od chatky, 50 metrů od přátel, a přesto strašně daleko. Kvůli leknutí nemůže vydat ani hlásku",
     "– Posttraumatická porucha v plným rozsahu po autonehodě. Takže, když se leknu, tak prostě najednou přestanu mluvit",
     "– Ubíhají minuty, pak celé hodiny. Paní Zdena je stále kořenovým vězněm. Marně ji hledají kamarádi",
-    "– Zdenóó! Zdenóó!",
+    "– Zdenóó! Zdenóóó!",
     "– Ve tmě chodili pár metrů od ní. Neviděli ji a ona se jim ozvat nedokázala. Bouchání do kořenu nebylo slyšet",
     "– Strach jsme měli, protože jsme nevěděli, co se děje",
     "– Promítali se mi hlavou vojáci z první světový války. Byli v zákopech, byli mokrý, museli vydržet. Takže musíš vydržet taky.",
