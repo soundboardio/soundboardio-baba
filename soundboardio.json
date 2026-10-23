@@ -2,7 +2,12 @@
   "name": "Bába pod kořenem",
   "shortName": "Bába pod kořenem",
   "description": "Uvíznutí rekreantky v kořenovém systému",
-  "story": "Teď tu máme příběh, který jako by se stal ve vzdálené divočině, ale je skutečně z České republiky. Celou noc musela strávit v lese na Jihlavsku sedmapadesátiletá žena. Uvízla totiž v kořenech stromů, odkud se nemohla dostat. Navíc ze šoku ztratila řeč, a tak si nedokázala ani přivolat pomoc. Tento neuvěřitelný příběh má naštěstí dobrý konec. Paní již není kořenovým vězněm.",
+  "story": [
+    "Jedenáct hodin strávila pod kořenem stromu v lese u Telče.",
+    "V noci na 26. července 2012 se sedmapadesátiletá Zdeňka Novotná ztratila u kempu v Řídelově na Vysočině, upadla pod kořen stromu a šok jí vzal hlas. Vysvobodili ji až ráno.",
+    "Reportáž Davida Pika odvysílaly Televizní noviny TV Nova 26. července 2012 pod titulkem „11 hodin hrůzy a beznaděje“. Moderátor Rey Koranteng ji později označil za součást genetické výbavy Novy a přiznal, že by ji natočil jinak.",
+    "Mem vznikl ještě týž večer. Video má přes milion zhlédnutí, vznikla trička, remixy i béčkový film Kořenový vězeň."
+  ],
   "color": "#1B5E20",
   "rootUrl": "sounds/",
   "author": {
