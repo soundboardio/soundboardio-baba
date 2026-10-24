@@ -14,7 +14,7 @@
 
 > Jedenáct hodin strávila pod kořenem stromu v lese u Telče.
 
-Board by [AquaSoup](https://aquasoup.com).
+Board by [Sám Život](https://aquasoup.com).
 
 ## Missing a quote?
 
